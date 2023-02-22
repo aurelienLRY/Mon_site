@@ -24,6 +24,7 @@ session_start(); ?>
     </header>
   <main>
  <h1> Mon profil</h1>
+ <p> on test</p>
 
   </main>
   <footer>
